@@ -69,9 +69,6 @@
 
 Clone the project
 
-bash
-  git clone https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction
-
 
 Go to the project directory
 
